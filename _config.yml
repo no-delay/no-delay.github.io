@@ -2,7 +2,6 @@
 title: BY Blog
 SEOTitle: NoDelay的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, NoDelay的博客, qiubaiying, NoDelay, iOS, Apple, iPhone"
 url: "http://https://no-delay.github.io/"          # your host, for absolute URL
@@ -12,20 +11,6 @@ github_repo: "https://github.com/no-delay/no-delay.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
-
-
-
-
-# SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
-
 
 
 # Build settings
